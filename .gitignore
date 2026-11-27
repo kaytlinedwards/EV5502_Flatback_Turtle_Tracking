@@ -1,0 +1,31 @@
+# RStudio temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.RData
+*.rds
+
+# Research datasets
+data/
+outputs/
+*.csv
+*.xlsx
+*.tif
+*.tiff
+*.shp
+*.gpkg
+*.gdb/
+
+# Generated figures and reports
+figures/
+*_files/
+*.html
+*.pdf
+
+# Mac system files
+.DS_Store
+
+# Allow StoryMap interactive visualisations
+!docs/
+!docs/**
